@@ -14,13 +14,13 @@
     <nav class="navbar navbar-inverse navbar-custom">
         <div class="container-fluid">
           <div class="navbar-header">
-            <a class="navbar-brand" href="index.html">GOES</a>
+            <a class="navbar-brand" href="index.php">GOES</a>
           </div>
           <ul class="nav navbar-nav">
-            <li><a href="index.html">Latest</a></li>
-            <li><a href="mesoscale.html">Mesoscale</a></li>
-            <li><a href="METAR.html">METARS</a></li>
-            <li class="active"><a href="about.html">About</a></li>
+            <li><a href="index.php">Latest</a></li>
+            <li><a href="mesoscale.php">Mesoscale</a></li>
+            <li><a href="METAR.php">METARS</a></li>
+            <li class="active"><a href="about.php">About</a></li>
           </ul>
         </div>
     </nav>
